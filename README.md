@@ -51,10 +51,10 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 
 🔧 **Tech Stack:** Python, Model Context Protocol, Docker, UniFi API, Redis
 
-### [Ansible Akash Provider](https://github.com/enuno/ansible-akash-provider)
-**Infrastructure-as-code automation** for deploying Akash Cloud Provider on Kubernetes with full-stack deployment automation.
+### [Claude Command & Control](https://github.com/enuno/claude-command-and-control)
+**Instruction manuals, templates, and best practices** for creating Claude commands, configuring AI agents, and orchestrating multi-agent workflows.
 
-🔧 **Tech Stack:** Ansible, Kubernetes, Akash, Helm, Blockchain
+🔧 **Tech Stack:** Claude Code, Claude Commands, AI Agents, AI Automation, Best Practices
 
 ### [Ansible Handshake DNS](https://github.com/enuno/ansible-handshake-dns)
 **Automated deployment** of decentralized DNS infrastructure combining Handshake blockchain with traditional DNS services.
