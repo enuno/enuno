@@ -71,10 +71,10 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 
 🔧 **Tech Stack:** Ansible, Privacy Network
 
-### [AI Coding Orchestrator](https://github.com/enuno/AI-Coding-Orchestrator)
-**Multi-Agent AI Coding Orchestration Script** for complex development workflows.
+### [yubikey-tools](https://github.com/enuno/yubikey-tools)
+++A collection of personally developed and externally collected yubikey tools++
 
-🔧 **Tech Stack:** Python, AI Orchestration
+🔧 ++Tech Stack:++ Shell, Python, YubiKey
 
 ---
 
