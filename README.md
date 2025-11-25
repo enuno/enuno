@@ -49,24 +49,31 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 ### [UniFi MCP Server](https://github.com/enuno/unifi-mcp-server)
 **Model Context Protocol (MCP) server** that exposes the UniFi Network Controller API, enabling AI agents and applications to interact with UniFi network infrastructure.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/unifi-mcp-server)
 🔧 **Tech Stack:** Python, Model Context Protocol, Docker, UniFi API, Redis
 
 ### [Claude Command & Control](https://github.com/enuno/claude-command-and-control)
 **Instruction manuals, templates, and best practices** for creating Claude commands, configuring AI agents, and orchestrating multi-agent workflows.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/claude-command-and-control)
 🔧 **Tech Stack:** Claude Code, Claude Commands, AI Agents, AI Automation, Best Practices
 
 ### [Ansible Handshake DNS](https://github.com/enuno/ansible-handshake-dns)
 **Automated deployment** of decentralized DNS infrastructure combining Handshake blockchain with traditional DNS services.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/ansible-handshake-dns)
 🔧 **Tech Stack:** Ansible, Handshake, Docker, DNS-over-TLS, Unbound
 
 ### [Tailscale ACL](https://github.com/enuno/tailscale-acl)
+
 **Tailscale ACL managed by AI coding agents** and automated GitOps workflows.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/tailscale-acl)
 🔧 **Tech Stack:** JavaScript, AI Automation, GitOps
 
 ### [Ansible Anon Relay](https://github.com/enuno/ansible-anon-relay)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/ansible-anon-relay)
+
 **Ansible playbook** for deploying an anyone network anon relay.
 
 🔧 **Tech Stack:** Ansible, Privacy Network
@@ -74,6 +81,7 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 ### [yubikey-tools](https://github.com/enuno/yubikey-tools)
 **A collection of personally developed and externally collected yubikey tools**
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/yubikey-tools)
 🔧 **Tech Stack:** Shell, Python, YubiKey
 
 ---
