@@ -16,6 +16,30 @@ As a dynamic and innovative technology solutions architect, experienced systems 
 
 My expertise is largely focused in designing technical and organizational frameworks that enable sustainable growth, future-focused development, and the strategic adoption of decentralized technologies that demonstrate a strong value in practical real-world applications to improve and modernize critical infrastructure.
 
+---
+
+## 🔋 Featured Organization
+
+### CEO & Founder | [@Ryno-Crypto-Mining-Services](https://github.com/Ryno-Crypto-Mining-Services)
+
+[![Ryno Crypto Logo](https://raw.githubusercontent.com/Ryno-Crypto-Mining-Services/ryno-assets/main/assets/images/ryno-crypto/logos/ryno-crypto-services-logo-blue-orange-bitcoin-company-title-transparent-1024x1024-v2.0-cc.png)](https://github.com/Ryno-Crypto-Mining-Services)
+
+**Pioneering sustainable Bitcoin mining through the [TerraHash Stack](https://github.com/Ryno-Crypto-Mining-Services) platform** — a next-generation bitcoin mining infrastructure combining:
+
+- 💧 **Modular liquid cooling systems** for maximum efficiency
+- 🤖 **AI-powered autonomous operations** and intelligent monitoring  
+- ⚡ **Edge data center integration** with zero-trust architecture
+- 🌱 **Sustainable energy focus** with renewable integration
+- 📈 **Real-time optimization** for profitability and performance
+
+**Key Achievements:**
+- Architecting autonomous mining facilities scaling from sub-$100K setups to 10MW+ commercial operations
+- Delivering up to 40% higher hash rates, 50% improved uptime, and 75% energy reduction
+- Pioneering net-zero mining through renewable energy integration and waste-heat recovery
+
+**Learn more:** [rynocrypto.com](https://rynocrypto.com/) | [𝕏 @RynoMining](https://x.com/RynoMining)
+
+
 ### 🎯 Core Focus Areas
 
 - 🏗️ Technology Solutions Architecture
