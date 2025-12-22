@@ -96,10 +96,10 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 🔧 **Tech Stack:** JavaScript, AI Automation, GitOps
 
 ### [Ansible Anon Relay](https://github.com/enuno/ansible-anon-relay)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/ansible-anon-relay)
 
 **Ansible playbook** for deploying an anyone network anon relay.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/ansible-anon-relay)
 🔧 **Tech Stack:** Ansible, Privacy Network
 
 ### [yubikey-tools](https://github.com/enuno/yubikey-tools)
