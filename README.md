@@ -152,7 +152,7 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enuno&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enuno&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 Get In Touch
