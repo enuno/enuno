@@ -37,7 +37,7 @@ My expertise is largely focused in designing technical and organizational framew
 - Delivering up to 40% higher hash rates, 50% improved uptime, and 75% energy reduction
 - Pioneering net-zero mining through renewable energy integration and waste-heat recovery
 
-**Learn more:** [rynocrypto.com](https://rynocrypto.com/) | [𝕏 @RynoMining](https://x.com/RynoMining)
+**Learn more:** [hashgrid.net](https://hashgrid.net) | [rynocrypto.com](https://rynocrypto.com/) | [𝕏 @RynoMining](https://x.com/RynoMining)
 
 
 ### 🎯 Core Focus Areas
@@ -159,7 +159,7 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 
 - 💼 [LinkedIn](https://linkedin.com/in/elvis-nuno-5635914)
 - 🌐 [Portfolio Website](https://enuno.github.io/DynamicCareerCanvas/)
-- 📧 [Email Me](mailto:.profound075@slmail.me)
+- 📧 [Email Me](mailto:publicprofileresumec.profound075@slmail.me)
 - 🐙 [GitHub](https://github.com/enuno)
 - 🐦 [Twitter](https://twitter.com/NunoElvis)
 
