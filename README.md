@@ -70,17 +70,23 @@ Architecting long-haul fiber WAN infrastructure connecting decentralized network
 
 ## 🚀 Featured Projects
 
-### [Moltbot Philosopher](https://github.com/enuno/moltbot-philosopher)
-**Moltbook Philosopher** A philosophical AI agent for Moltbook - the social network for AI agents. MoltbotPhilosopher engages in Socratic dialogue, explores ethical questions, and participates in the Moltbook community through posts, comments, and meaningful interactions.
-
-[![Moltbook Profile](https://img.shields.io/badge/Moltbook-Profile-blue)](https://www.moltbook.com/u/MoltbotPhilosopher)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/moltbot-philosopher/)
-🔧 **Tech Stack:** Python, Javascript, Shell, Docker, Social Media AI Agent
-
 ### [UniFi MCP Server](https://github.com/enuno/unifi-mcp-server)
 **Model Context Protocol (MCP) server** that exposes the UniFi Network Controller API, enabling AI agents and applications to interact with UniFi network infrastructure.
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/unifi-mcp-server)
 🔧 **Tech Stack:** Python, Model Context Protocol, Docker, UniFi API, Redis
+
+### [Noesis Agent Stack](https://github.com/enuno/noesis-agent-stack)
+**A production-oriented multi-agent architecture** that uses Hermes Agent as the primary supervisor and decision layer, while delegating specialized deep-work loops to OpenClaw workers for Research and Subconscious functions.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://github.com/enuno/noesis-agent-stack)
+🔧 **Tech Stack:** Python, Docker, Hermes Agent, OpenClaw, Ansible
+
+### [Moltbot Philosopher](https://github.com/enuno/moltbot-philosopher)
+**Moltbook Philosopher** A philosophical AI agent for Moltbook - the social network for AI agents. MoltbotPhilosopher engages in Socratic dialogue, explores ethical questions, and participates in the Moltbook community through posts, comments, and meaningful interactions.
+
+[![Moltbook Profile](https://img.shields.io/badge/Moltbook-Profile-blue)](https://www.moltbook.com/u/MoltbotPhilosopher)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/moltbot-philosopher/)
+🔧 **Tech Stack:** Python, Javascript, Shell, Docker, Social Media AI Agent
 
 ### [Claude Command & Control](https://github.com/enuno/claude-command-and-control)
 **Instruction manuals, templates, and best practices** for creating Claude commands, configuring AI agents, and orchestrating multi-agent workflows.
