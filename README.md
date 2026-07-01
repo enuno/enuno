@@ -18,28 +18,6 @@ My expertise is largely focused in designing technical and organizational framew
 
 ---
 
-## 🔋 Featured Organization
-
-### CEO & Founder | [@Ryno-Crypto-Mining-Services](https://github.com/Ryno-Crypto-Mining-Services)
-
-[![Ryno Crypto Logo](https://raw.githubusercontent.com/Ryno-Crypto-Mining-Services/ryno-assets/main/assets/images/ryno-crypto/logos/ryno-crypto-services-logo-blue-orange-bitcoin-company-title-transparent-1024x1024-v2.0-cc.png)](https://github.com/Ryno-Crypto-Mining-Services)
-
-**Pioneering sustainable Bitcoin mining through the [TerraHash Stack](https://github.com/Ryno-Crypto-Mining-Services) platform** — a next-generation bitcoin mining infrastructure combining:
-
-- 💧 **Modular liquid cooling systems** for maximum efficiency
-- 🤖 **AI-powered autonomous operations** and intelligent monitoring  
-- ⚡ **Edge data center integration** with zero-trust architecture
-- 🌱 **Sustainable energy focus** with renewable integration
-- 📈 **Real-time optimization** for profitability and performance
-
-**Key Achievements:**
-- Architecting autonomous mining facilities scaling from sub-$100K setups to 10MW+ commercial operations
-- Delivering up to 40% higher hash rates, 50% improved uptime, and 75% energy reduction
-- Pioneering net-zero mining through renewable energy integration and waste-heat recovery
-
-**Learn more:** [hashgrid.net](https://hashgrid.net) | [rynocrypto.com](https://rynocrypto.com/) | [𝕏 @RynoMining](https://x.com/RynoMining)
-
-
 ### 🎯 Core Focus Areas
 
 - 🏗️ Technology Solutions Architecture
@@ -47,24 +25,6 @@ My expertise is largely focused in designing technical and organizational framew
 - 🌐 ISP & Telecom Infrastructure
 - ☁️ Cloud & DevOps Engineering
 - 🔧 Systems Engineering & Automation
-
----
-
-## 💼 Current Roles
-
-### CEO | Ryno Crypto Services, LLC
-*October 2025 - Present*
-
-Founded and leading the creation and commercialization of **TerraHash Stack** — a next-generation bitcoin mining platform redefining efficiency, scalability, and sustainability in crypto infrastructure through AI-driven automation and renewable-powered operations.
-
-- Architecting autonomous mining facilities scaling from sub-$100K setups to 10MW+ commercial operations
-- Delivering up to 40% higher hash rates, 50% improved uptime, and 75% energy reduction
-- Pioneering net-zero mining through renewable energy integration and waste-heat recovery
-
-### WAN Network Architect & Technical Solutions Consultant | ServerDomes
-*March 2025 - Present*
-
-Architecting long-haul fiber WAN infrastructure connecting decentralized network of next-generation edge data centers with fault-tolerant, low-latency tier-1 carrier-blended bandwidth solutions for Web3 applications and blockchain workloads.
 
 ---
 
