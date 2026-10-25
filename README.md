@@ -14,7 +14,13 @@ My open-source work applies the same discipline to software: tools that let AI a
 
 ## Featured open source
 
-### [UniFi MCP Server](https://github.com/enuno/unifi-mcp-server)
+<h3 align="center">
+  <a href="https://github.com/enuno/unifi-mcp-server">UniFi MCP Server</a>
+</h3>
+
+<p align="center">
+  <img src="https://github.com/enuno/unifi-mcp-server/blob/main/assets/unifi-mcp-server-logo.png" alt="UniFi MCP Server logo" width="300" height="300">
+</p>
 
 An open-source [Model Context Protocol](https://modelcontextprotocol.io) server that gives AI agents one standard interface to UniFi infrastructure: UniFi Network, UniFi Protect, and the UniFi cloud APIs. Agents can inspect clients, devices, firewall policy, and sites, and can change configuration when the operator allows it.
 
@@ -26,7 +32,13 @@ Python · FastMCP · Pydantic · Apache-2.0
 
 [Repository](https://github.com/enuno/unifi-mcp-server) · [Tool reference](https://github.com/enuno/unifi-mcp-server/blob/main/API.md) · [Contributing guide](https://github.com/enuno/unifi-mcp-server/blob/main/CONTRIBUTING.md) · [Discussions](https://github.com/enuno/unifi-mcp-server/discussions)
 
-### [Noesis Agent Stack](https://github.com/enuno/noesis-agent-stack)
+<h3 align="center">
+  <a href="https://github.com/enuno/noesis-agent-stack">Noesis Agent Stack</a>
+</h3>
+
+<p align="center">
+  <img src="https://github.com/enuno/noesis-agent-stack/blob/main/assets/logo/NoesisAgentStack.png" alt="Noesis Agent Stack" width="300" height="300">
+</p>
 
 A governed multi-agent system built on Hermes Agent profiles. A central orchestrator plans work, gives each task to the specialist with the narrowest mandate, and combines the results. The orchestrator itself has no execution access.
 
@@ -37,7 +49,9 @@ A governed multi-agent system built on Hermes Agent profiles. A central orchestr
 
 [Repository](https://github.com/enuno/noesis-agent-stack) · [Workflows](https://github.com/enuno/noesis-agent-stack/blob/main/WORKFLOWS.md)
 
-### [Noesis Ansible](https://github.com/enuno/noesis-ansible)
+<h3 align="center">
+  <a href="https://github.com/enuno/noesis-ansible">Noesis Ansible</a>
+</h3>
 
 The infrastructure side of Noesis. The agent stack defines and coordinates agent behavior; this repository provisions and configures the services it runs on: agent and MCP registries, policy and sandboxing, memory services, agent runtimes, and observability.
 
