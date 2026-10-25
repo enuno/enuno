@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enuno/noesis-agent-stack/refs/heads/main/assets/logo/NoesisLabs.png" alt="Noesis Labs" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/enuno/noesis-agent-stack/refs/heads/main/assets/logo/NoesisLabs.png" alt="Noesis Labs" width="500" height="500">
 </p>
 
 **Infrastructure & Systems Engineer · Open-Source Maintainer · AI-Agent Infrastructure**
