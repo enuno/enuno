@@ -53,6 +53,10 @@ A governed multi-agent system built on Hermes Agent profiles. A central orchestr
   <a href="https://github.com/enuno/noesis-ansible">Noesis Ansible</a>
 </h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enuno/noesis-ansible/refs/heads/main/assets/NoesisAnsible.png" alt="Noesis Ansible" width="300" height="300">
+</p>
+
 The infrastructure side of Noesis. The agent stack defines and coordinates agent behavior; this repository provisions and configures the services it runs on: agent and MCP registries, policy and sandboxing, memory services, agent runtimes, and observability.
 
 - **Phased, idempotent playbooks** from host bootstrap to validation, with backup, restore, and rollback playbooks.
