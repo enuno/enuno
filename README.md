@@ -14,7 +14,7 @@ My open-source work applies the same discipline to software: tools that let AI a
 
 **Current focus:** MCP-based network operations with UniFi MCP Server, and Noesis — a governed multi-agent system and the Ansible code that deploys it.
 
-## Featured open source
+## Featured Projects
 
 <h3 align="center">
   <a href="https://github.com/enuno/unifi-mcp-server">UniFi MCP Server</a>
