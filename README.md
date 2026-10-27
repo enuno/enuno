@@ -51,6 +51,8 @@ A governed multi-agent system built on Hermes Agent profiles. A central orchestr
 
 [Repository](https://github.com/enuno/noesis-agent-stack) · [Workflows](https://github.com/enuno/noesis-agent-stack/blob/main/WORKFLOWS.md)
 
+*Get free account credit when you sign up for a Nous Research account for Hermes agent using my referral link:* [noesis-networks](https://portal.nousresearch.com/r/noesis-networks)
+
 <h3 align="center">
   <a href="https://github.com/enuno/noesis-ansible">Noesis Ansible</a>
 </h3>
